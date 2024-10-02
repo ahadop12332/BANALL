@@ -24,7 +24,10 @@ devine = Client(
 async def start_command(client, message: Message):
     await message.reply_photo(
         photo=START_IMG,
-        caption=f"ʏᴏᴏ {message.from_user.mention} ✨\n\nɪ'ᴍ [Ꭰᴇᴠɪɴᴇ Ᏼᴀɴᴀʟʟ](https://t.me/DevineBanall_bot)\n\nᴀ ᴘʏʀᴏɢʀᴀᴍ-ʙᴀsᴇᴅ ʙᴏᴛ ᴘʀᴏɢʀᴀᴍᴍᴇᴅ ᴛᴏ ʙᴀɴ ᴏʀ ᴡɪᴘᴇ ᴏᴜᴛ ᴀʟʟ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴀ ɢʀᴏᴜᴘ ɪɴ ᴊᴜsᴛ ᴀ ғᴇᴡ sᴇᴄᴏɴᴅs.\n──────────────────\nɢʀᴀɴᴛ ᴍᴇ ᴜɴʀᴇsᴛʀɪᴄᴛᴇᴅ ᴀᴄᴄᴇss ᴛᴏ ᴛᴇsᴛ ᴍʏ ᴄᴀᴘᴀʙɪʟɪᴛɪᴇs.",
+        caption=f"ʏᴏᴏ {message.from_user.mention} ✨\n\nɪ'ᴍ  
+⎋ ɪᴛ'ꜱ ᴀɴ ᴀᴅᴠᴀɴᴄᴇ & ᴘᴏᴡᴇʀꜰᴜʟ ʙᴀɴ-ᴀʟʟ ʙᴏᴛ ᴡɪᴛʜ ɴᴏ ʟᴀɢ ɪꜱꜱᴜᴇꜱ. ᴛʜɪꜱ ʙᴀɴ-ᴀʟʟ ᴇᴅɪᴛɪᴏɴ ɪꜱ ᴄʀᴇᴀᴛᴇ ᴀɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ꜰᴏʀ ꜰᴜᴄᴋɪɴɢ ᴛᴏxɪᴄ ᴄᴜᴍᴍɪɴɪᴛʏ'ꜱ.
+
+⎆ ᴀᴅᴅ ᴛʜɪꜱ ʙᴀɴᴀʟʟ ᴇᴅɪᴛɪᴏɴ ᴛᴏ ᴇɴᴇᴍʏ'ꜱ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʙᴀɴ ʀɪɢʜᴛꜱ  ᴀɴᴅ ꜰᴜᴄᴋ ʜɪꜱ ᴡʜᴏʟᴇ ᴄʟᴀɴ ᴡɪᴛʜᴏᴜᴛ ꜰᴀᴄɪɴɢ ᴀɴʏ ʙᴜɢꜱ/ᴘʀᴏʙʟᴇᴍꜱ.",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
